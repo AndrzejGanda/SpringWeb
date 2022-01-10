@@ -11,7 +11,7 @@ Run in project root directory:
 
 ## Api documentation
 Aplication runs on port 8080.
-### 1. Endpoint to get all user repositories 
+### 1. Endpoint to get sum of user stars from all repos 
 **Request**  
 Method: GET 
 http://localhost:8080/github/users/{userName}/repositories/sumstars
